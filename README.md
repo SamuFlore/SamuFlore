@@ -27,3 +27,5 @@
 <figure><embed src="https://wakatime.com/share/@samuflore/547ecf07-bca6-4363-a4fb-7b351eb11762.svg"></embed></figure>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamuFlore&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+
+![Metrics](/github-metrics.svg)
