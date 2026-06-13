@@ -4,6 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[JSCKG]最优页面大小证明](https://samuflore.top/posts/5e3a9944/)
+- [[BUAA OS Lab6]管道与 Shell](https://samuflore.top/posts/9dad7cb8/)
+- [[BUAA OS Finale]2026 北航操作系统实验总结](https://samuflore.top/posts/e2112bdd/)
+- [[BUAA ML]Supervised Machine Learning](https://samuflore.top/posts/645177c/)
+- [[BUAA ML]Introduction of Machine Learning](https://samuflore.top/posts/269744f0/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
