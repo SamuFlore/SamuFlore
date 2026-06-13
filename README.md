@@ -1,7 +1,7 @@
 # Introduction
 [天朝](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B)人，目前就读于[北京航空航天大学计算机学院](https://scse.buaa.edu.cn/index.htm)。  
 
-# Latest Blog
+# Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
