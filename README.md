@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[JSCKG]基于最大方差准则推导 PCA](https://samuflore.top/posts/4b4a53fe/)
+- [[BUAA ML]Unsupervised Machine Learning](https://samuflore.top/posts/fd2d7b7a/)
 - [[BUAA OO Finale]面向对象设计与构造](https://samuflore.top/posts/4ba58912/)
 - [[BUAA OO]Unit 3 总结：JML 规格化](https://samuflore.top/posts/bc90237f/)
 - [[JSCKG]最优页面大小证明](https://samuflore.top/posts/5e3a9944/)
-- [[BUAA OS Lab6]管道与 Shell](https://samuflore.top/posts/9dad7cb8/)
-- [[BUAA OS Finale]2026 北航操作系统实验总结](https://samuflore.top/posts/e2112bdd/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
