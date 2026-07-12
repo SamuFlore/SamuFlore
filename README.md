@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[BUAA ML]Transformer](https://samuflore.top/posts/8b370a4c/)
 - [[JSCKG]反向传播](https://samuflore.top/posts/84e706a0/)
 - [[BUAA ML]Ensemble Learning](https://samuflore.top/posts/ff5d12c2/)
 - [[JSCKG]基于最大方差准则推导 PCA](https://samuflore.top/posts/4b4a53fe/)
 - [[BUAA ML]Unsupervised Machine Learning](https://samuflore.top/posts/fd2d7b7a/)
-- [[BUAA OO Finale]面向对象设计与构造](https://samuflore.top/posts/4ba58912/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
