@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[江子社]4 * H20-3e 本地部署 DeepSeek-V4-Flash-0731 记录](https://samuflore.top/posts/72c4a213/)
 - [[BUAA ML]Post-Training](https://samuflore.top/posts/8db1062d/)
 - [[BUAA ML]Transformer](https://samuflore.top/posts/8b370a4c/)
 - [[JSCKG]反向传播](https://samuflore.top/posts/84e706a0/)
 - [[BUAA ML]Ensemble Learning](https://samuflore.top/posts/ff5d12c2/)
-- [[JSCKG]基于最大方差准则推导 PCA](https://samuflore.top/posts/4b4a53fe/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
