@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[八紘九野集]上海实习三十天](https://samuflore.top/posts/b2097b54/)
 - [[江子社]4 * H20-3e 本地部署 DeepSeek-V4-Flash-0731 记录](https://samuflore.top/posts/72c4a213/)
 - [[BUAA ML]Post-Training](https://samuflore.top/posts/8db1062d/)
 - [[BUAA ML]Transformer](https://samuflore.top/posts/8b370a4c/)
 - [[JSCKG]反向传播](https://samuflore.top/posts/84e706a0/)
-- [[BUAA ML]Ensemble Learning](https://samuflore.top/posts/ff5d12c2/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
