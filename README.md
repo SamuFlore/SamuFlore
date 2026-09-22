@@ -4,7 +4,7 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [[语言进阶]C2](https://samuflore.top/posts/eea4d95f/)
+- [[語言進階]C2](https://samuflore.top/posts/eea4d95f/)
 - [[語言進階]C1](https://samuflore.top/posts/e919a989/)
 - [[八紘九野集]上海实习三十天](https://samuflore.top/posts/b2097b54/)
 - [[江子社]4 * H20-3e 本地部署 DeepSeek-V4-Flash-0731 记录](https://samuflore.top/posts/72c4a213/)
