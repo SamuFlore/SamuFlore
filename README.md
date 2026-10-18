@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[DB]SQL 简明教程](https://samuflore.top/posts/1801200e/)
 - [[語言進階]C4](https://samuflore.top/posts/673b3915/)
 - [[語言進階]C3](https://samuflore.top/posts/f95facb6/)
 - [[語言進階]C2](https://samuflore.top/posts/eea4d95f/)
 - [[語言進階]C1](https://samuflore.top/posts/e919a989/)
-- [[八紘九野集]上海实习三十天](https://samuflore.top/posts/b2097b54/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
