@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[江子社]从 Agent 到 Transformer](https://samuflore.top/posts/a6eef328/)
 - [[語言進階]C5](https://samuflore.top/posts/103c0983/)
 - [[楠竹蓮花集]如何写作](https://samuflore.top/posts/8334a787/)
 - [[DB]SQL 简明教程](https://samuflore.top/posts/1801200e/)
 - [[語言進階]C4](https://samuflore.top/posts/673b3915/)
-- [[語言進階]C3](https://samuflore.top/posts/f95facb6/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
