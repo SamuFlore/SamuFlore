@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[CP] 2026 北航编译原理期中上机测试](https://samuflore.top/posts/6701fe23/)
 - [[語言進階]C6](https://samuflore.top/posts/89355839/)
 - [[江子社]人工智能导论](https://samuflore.top/posts/a6eef328/)
 - [[語言進階]C5](https://samuflore.top/posts/103c0983/)
 - [[楠竹蓮花集]如何写作](https://samuflore.top/posts/8334a787/)
-- [[DB]SQL 简明教程](https://samuflore.top/posts/1801200e/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
