@@ -4,11 +4,11 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [[語言進階]C7](https://samuflore.top/posts/fe3268af/)
+- [[語言進階]存储期、作用域、命名空间与链接](https://samuflore.top/posts/fe3268af/)
 - [[CP] 2026 北航编译原理期中上机测试](https://samuflore.top/posts/6701fe23/)
-- [[語言進階]C6](https://samuflore.top/posts/89355839/)
+- [[語言進階]函数、Function Designator 与形参限定符](https://samuflore.top/posts/89355839/)
 - [[江子社]人工智能导论](https://samuflore.top/posts/a6eef328/)
-- [[語言進階]C5](https://samuflore.top/posts/103c0983/)
+- [[語言進階]指针、数组、VLA 与动态内存管理](https://samuflore.top/posts/103c0983/)
 <!-- BLOG-POST-LIST:END -->
 
 # Statistics
